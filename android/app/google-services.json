@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448043596352",
+    "project_id": "notifyfriendsplaying-2a0ea",
+    "storage_bucket": "notifyfriendsplaying-2a0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448043596352:android:be68096072b5cf0014bda5",
+        "android_client_info": {
+          "package_name": "com.notifyfriendsplaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448043596352-1fr9b54kck0ki667sdcoihuil2088sh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIsdN7O5EmPUMy5RLceRM4NeWsdW8qsW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448043596352-1fr9b54kck0ki667sdcoihuil2088sh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
